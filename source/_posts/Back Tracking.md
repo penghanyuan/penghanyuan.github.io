@@ -1,7 +1,11 @@
 ---
 title: Back Tracking 问题思考
 date: 2019-08-20 17:03:48
-tags:
+tags: 
+- Back Tracking
+- Leetcode
+categories: 
+- Algorithm
 ---
 
 Leetcode 上的back tracking 相关题目总结。
